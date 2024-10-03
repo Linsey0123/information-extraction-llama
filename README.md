@@ -1,2 +1,2 @@
-# python-for-data-analysis
-A repository for studying and practicing code from 'Python for Data Analysis' by Wes McKinney. Includes exercises, notes, and examples.
+# information-extraction-llama
+A repository for test the information extracion job using llama 3.1 7B.
